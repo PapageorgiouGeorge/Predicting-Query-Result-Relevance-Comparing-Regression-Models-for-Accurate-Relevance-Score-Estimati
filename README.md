@@ -6,3 +6,8 @@ To accomplish this, we will utilize train.csv, which contains query-answer pairs
 The technical approach includes importing necessary packages, loading the datasets, fixing typos, merging dataframes, performing stemming, generating numerical features, and applying various regression models. The models used for prediction are Random Forest, Ridge Regression, Gradient Boosting, XGBoosting, and Multi-layer Perceptron.
 
 The final results show that XGBoost Regression provided the best performance with an RMSE of 0.4768. The most important features in predicting relevance were the length of words for the description, the ratio of product description word length to search term word length, and the length of words of the title.
+
+
+## Contact Information
+
+If you require access to the code in this repository, please reach out to me at g.papageorgiou.contact@gmail.com or on [LinkedIn](https://www.linkedin.com/in/giorgos-papageorgiou-3b27a9221), and I will be happy to assist you.
